@@ -6,7 +6,7 @@ def frexp10(decimal):
 ##
 =>PYTHONTEX:SETTINGS#
 version=0.17
-outputdir=pythontex-files-report
+outputdir=pythontex-files-titlle
 workingdir=.
 workingdirset=false
 gobble=none

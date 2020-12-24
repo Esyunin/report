@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.18)  24 DEC 2020 15:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.18)  24 DEC 2020 12:45
 entering extended mode
-**./report.tex
-(report.tex
+**./titlle.tex
+(titlle.tex
 LaTeX2e <2020-10-01> patch level 2
 L3 programming layer <2020-12-07> xparse <2020-03-03> (text/diss.tex
 (C:\Users\Denis\AppData\Local\Programs\MiKTeX\tex/latex/extsizes\extarticle.cls
@@ -1360,7 +1360,7 @@ Package: newfloat 2019/09/02 v1.1l Defining new floating environments (AR)
 Package newfloat Info: `wrapfig' package detected.
 )
 \pytx@codefile=\write6
-\openout6 = `report.pytxcode'.
+\openout6 = `titlle.pytxcode'.
 
 \c@pytx@FancyVerbLineTemp=\count355
 \c@pytx@py@default@default=\count356
@@ -1417,7 +1417,7 @@ Package pstool Warning:
   because -shell-escape is not enabled.
 This warning occurred on input line 163.
 
-runsystem(cd ""& copy "report.aux" "report.oldaux" )...disabled (restricted).
+runsystem(cd ""& copy "titlle.aux" "titlle.oldaux" )...disabled (restricted).
 
 ) (C:\Users\Denis\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
@@ -1459,14 +1459,14 @@ Package tocloft Info: The document has section divisions on input line 51.
 (C:\Users\Denis\AppData\Local\Programs\MiKTeX\tex/latex/secdot\secdot.sty
 Package: secdot 2000/06/20 v1.0 section numbers with dots
 ))
-(report.aux
+(titlle.aux
 LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 2
 3.
 
 (C:\Users\Denis\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
-\openout1 = `report.aux'.
+\openout1 = `titlle.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
 LaTeX Font Info:    ... okay on input line 2.
@@ -1572,13 +1572,13 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 2.
 LaTeX Info: Redefining \pageref on input line 2.
 LaTeX Info: Redefining \nameref on input line 2.
- (report.out) (report.out)
+ (titlle.out) (titlle.out)
 \@outlinefile=\write9
-\openout9 = `report.out'.
+\openout9 = `titlle.out'.
 
 Package newfloat Info: `float' package detected.
 
-No file pythontex-files-report/report.pytxmcr.
+No file pythontex-files-titlle/titlle.pytxmcr.
 Run PythonTeX to create it.
 Package newfloat Info: New float `listing' with options `fileext=lopytx' on inp
 ut line 2.
@@ -1638,91 +1638,9 @@ Non-PDF special ignored!
 <special> header=psfrag.pro
 
 
-{C:/Users/Denis/AppData/Local/MiKTeX/pdftex/config/pdftex.map}])
-LaTeX Font Info:    Trying to load font information for U+msa on input line 15.
-
-
-(C:\Users\Denis\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 15.
-
-
-(C:\Users\Denis\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for U+esint on input line 1
-5.
-
-(C:\Users\Denis\AppData\Local\Programs\MiKTeX\tex/latex/esint\uesint.fd
-File: uesint.fd 
-)
-
-LaTeX Warning: Command \cyrn invalid in math mode on input line 20.
-
-
-LaTeX Warning: Command \CYRF invalid in math mode on input line 20.
-
-Missing character: There is no н in font cmr12!
-Missing character: There is no Ф in font cmr12!
-
-LaTeX Warning: Command \cyrn invalid in math mode on input line 20.
-
-
-LaTeX Warning: Command \CYRS invalid in math mode on input line 20.
-
-
-LaTeX Warning: Command \cyrm invalid in math mode on input line 20.
-
-Missing character: There is no н in font cmr12!
-Missing character: There is no С in font cmr12!
-Missing character: There is no м in font cmr12!
-[1
-
-
-] [2] [3]
-<pic/rho.png, id=72, 421.575pt x 316.0608pt>
-File: pic/rho.png Graphic file (type png)
-<use pic/rho.png>
-Package pdftex.def Info: pic/rho.png  used on input line 142.
-(pdftex.def)             Requested size: 483.69687pt x 362.64241pt.
- [4]
-<pic/S.png, id=84, 421.575pt x 316.18124pt>
-File: pic/S.png Graphic file (type png)
-<use pic/S.png>
-Package pdftex.def Info: pic/S.png  used on input line 150.
-(pdftex.def)             Requested size: 483.69687pt x 362.78061pt.
- [5 <./pic/rho.png (PNG copy)>]
-Overfull \hbox (12.73715pt too wide) in paragraph at lines 154--154
-[]\T2A/cmr/bx/n/17.28 Cравнение ре-ше-ния урав-не-ния Фоккера-Планка с мик-
- []
-
-<pic/rhomicro.png, id=91, 421.575pt x 316.0608pt>
-File: pic/rhomicro.png Graphic file (type png)
-<use pic/rhomicro.png>
-Package pdftex.def Info: pic/rhomicro.png  used on input line 161.
-(pdftex.def)             Requested size: 483.69687pt x 362.64241pt.
-[6 <./pic/S.png (PNG copy)>]
-<pic/epsilonN(N).png, id=98, 421.575pt x 316.0608pt>
-File: pic/epsilonN(N).png Graphic file (type png)
-<use pic/epsilonN(N).png>
-Package pdftex.def Info: pic/epsilonN(N).png  used on input line 169.
-(pdftex.def)             Requested size: 483.69687pt x 362.64241pt.
- [7 <./pic/rhomicro.png (PNG copy)>]
-<pic/epsilon(n).png, id=104, 421.575pt x 316.0608pt>
-File: pic/epsilon(n).png Graphic file (type png)
-<use pic/epsilon(n).png>
-Package pdftex.def Info: pic/epsilon(n).png  used on input line 177.
-(pdftex.def)             Requested size: 483.69687pt x 362.64241pt.
- [8 <./pic/epsilonN(N).png (PNG copy)>] [9 <./pic/epsilon(n).png (PNG copy)>]
-<pic/T_mean_T_sigma3.png, id=116, 421.575pt x 316.0608pt>
-File: pic/T_mean_T_sigma3.png Graphic file (type png)
-<use pic/T_mean_T_sigma3.png>
-Package pdftex.def Info: pic/T_mean_T_sigma3.png  used on input line 203.
-(pdftex.def)             Requested size: 386.95897pt x 290.11394pt.
- [10] [11 <./pic/T_mean_T_sigma3.png (PNG copy)>] (report.aux)
-Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 83A0799D0A86357EDC49A2A6A57DC28B;1887.
+{C:/Users/Denis/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]) (titlle.aux)
+Package rerunfilecheck Info: File `titlle.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
 LaTeX Font Warning: Size substitutions with differences
@@ -1730,34 +1648,20 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 41452 strings out of 479697
- 914392 string characters out of 2867132
- 1334713 words of memory out of 3000000
- 57739 multiletter control sequences out of 15000+200000
- 414060 words of font info for 56 fonts, out of 3000000 for 9000
+ 41275 strings out of 479697
+ 911871 string characters out of 2867132
+ 1322713 words of memory out of 3000000
+ 57628 multiletter control sequences out of 15000+200000
+ 406281 words of font info for 32 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 126i,16n,130p,1747b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Denis\AppData\Local\MiKTeX\fonts/pk/ljfour/public/esint/dpi720\esi
-nt10.pk> <C:\Users\Denis\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\
-larm0800.pk> <C:\Users\Denis\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi
-600\labx1728.pk> <C:\Users\Denis\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a
-/dpi600\larm1200.pk> <C:\Users\Denis\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh
--t2a/dpi600\labx1200.pk> <C:\Users\Denis\AppData\Local\MiKTeX\fonts/pk/ljfour/l
-h/lh-t2a/dpi600\labx1095.pk><C:/Users/Denis/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Denis/AppData/Local/Programs/MiK
-TeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Denis/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Denis/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Denis/A
-ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users
-/Denis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C
-:/Users/Denis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8
-.pfb><C:/Users/Denis/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
-cm/cmsy10.pfb><C:/Users/Denis/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-amsfonts/cm/cmsy6.pfb><C:/Users/Denis/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/amsfonts/cm/cmsy8.pfb>
-Output written on report.pdf (12 pages, 373963 bytes).
+ 126i,5n,130p,742b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Denis\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm12
+00.pk> <C:\Users\Denis\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
+bx1200.pk> <C:\Users\Denis\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
+0\labx1095.pk>
+Output written on titlle.pdf (1 page, 46104 bytes).
 PDF statistics:
- 387 PDF objects out of 1000 (max. 8388607)
- 33 named destinations out of 1000 (max. 500000)
- 75 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 148 PDF objects out of 1000 (max. 8388607)
+ 1 named destinations out of 1000 (max. 500000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
